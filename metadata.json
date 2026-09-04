@@ -1,0 +1,6 @@
+{
+  "name": "Student Financial OS",
+  "description": "Financial awareness, multi-currency budgeting, cash-flow forecasting, and receipt intelligence for international students moving abroad.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
